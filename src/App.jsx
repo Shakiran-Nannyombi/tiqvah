@@ -24,7 +24,7 @@ const App = () => {
     }, []);
 
     return (
-        <Router basename="/tiqvah/">
+        <Router>
             <ScrollToTop />
             <Navbar />
             <div className="pt-[64px]">
